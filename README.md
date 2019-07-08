@@ -1,2 +1,2 @@
 # Overview
-Исходный код использования Selenium для приемочного тестирования для статьи на [habr](https://habr.com/ru/post/221169/).
+Исходный код статьи ["Автоматизация приемочного тестирования Selenium + .NET Web Api + AngularJs"](https://habr.com/ru/post/221169/).
